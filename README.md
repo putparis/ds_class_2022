@@ -1,5 +1,5 @@
 - [2602454: Business Intelligence System](#2602454-business-intelligence-system)
-  - [week 1: 12-Jan-2022](#week-1-12-jan-2022)
+  - [Week 1: 12-Jan-2022](#week-1-12-jan-2022)
     - [Intro to data science](#intro-to-data-science)
       - [Clone class materials](#clone-class-materials)
     - [Basic Command line](#basic-command-line)
@@ -9,10 +9,10 @@
     - [Recommended resources](#recommended-resources)
 ---
 # 2602454: Business Intelligence System
-* github: https://github.com/prasertcbs/ds_class_2021
+* github: https://github.com/prasertcbs/ds_class_2022
 * [cheat sheet](https://github.com/prasertcbs/cheatsheet) 
-
-## week 1: 12-Jan-2022
+## Week 1: 12-Jan-2022
+* [ ] [week 1 clips](https://github.com/prasertcbs/ds_class_2022/blob/main/week1_clips.md)
 ### Intro to data science
 * [ ] [Job market](https://www.facebook.com/skooldio/photos/a.457984764545584/1643356276008421/)
 * [ ] [Data Science in Busines](./cheatsheet/ds%20for%20business.pdf)
