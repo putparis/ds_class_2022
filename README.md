@@ -1,6 +1,7 @@
 - [2602454: Business Intelligence System](#2602454-business-intelligence-system)
   - [week 1: 12-Jan-2022](#week-1-12-jan-2022)
     - [Intro to data science](#intro-to-data-science)
+      - [Clone class materials](#clone-class-materials)
     - [Basic Command line](#basic-command-line)
       - [Windows command line](#windows-command-line)
       - [macOS Terminal command line](#macos-terminal-command-line)
@@ -13,6 +14,7 @@
 
 ## week 1: 12-Jan-2022
 ### Intro to data science
+* [ ] [Job market](https://www.facebook.com/skooldio/photos/a.457984764545584/1643356276008421/)
 * [ ] [Data Science in Busines](./cheatsheet/ds%20for%20business.pdf)
 * [ ] [CRISP model: CRoss-Industry Standard Process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining#/media/File:CRISP-DM_Process_Diagram.png)
 * [ ] [machine learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html)
@@ -36,7 +38,7 @@
 * [ ] Install Python and packages
   * [ ] installation:
     * [ ] [Install Python using miniconda](https://www.youtube.com/watch?v=NxIwWGKuSco&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=4)
-```sh
+```
 pip install -U nodejs
 pip install -U jupyterlab ipywidgets
 pip install -U pandas matplotlib seaborn scipy scikit-learn joblib lxml beautifulsoup4 pillow sqlalchemy openpyxl xlrd statsmodels tabulate pandas-datareader
@@ -46,6 +48,19 @@ pip install -U ipython-sql pgspecial
 pip install -U graphviz
 pip install -U xgboost catboost lightgbm shap
 pip cache purge
+```
+#### Clone class materials
+* [ ] [install git](https://www.git-scm.com/)
+  * [ ] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
+```bat
+mkdir beagle
+cd beagle
+git clone https://github.com/prasertcbs/ds_class_2022.git
+```
+* [ ] pull latest files from git repo
+```bat
+cd beagle
+git pull
 ```
 ### Basic Command line
 #### [Windows command line](https://www.youtube.com/watch?v=C5fCLAA7Mmc&list=PLoTScYm9O0GGpQRdTu3Y8sGA8MsBuojhV)
