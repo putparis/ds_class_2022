@@ -34,34 +34,45 @@
 * [ ] pandas vs sql
     * [ ] [pandas](https://www.youtube.com/watch?v=f3CLdRl-zyQ&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz)
     * [ ] [from SQL to pandas](example/postgres_sql_vs_pandas.ipynb)
-    * [ ] 
 * [ ] Install Python and packages
   * [ ] installation:
     * [ ] [Install Python using miniconda](https://www.youtube.com/watch?v=NxIwWGKuSco&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=4)
-```
-pip install -U nodejs
-pip install -U jupyterlab ipywidgets
-pip install -U pandas matplotlib seaborn scipy scikit-learn joblib lxml beautifulsoup4 pillow sqlalchemy openpyxl xlrd statsmodels tabulate pandas-datareader
-pip install -U plotly cufflinks chart_studio kaleido orjson
-pip install -U psycopg2-binary
-pip install -U ipython-sql pgspecial
-pip install -U graphviz
-pip install -U xgboost catboost lightgbm shap
-pip cache purge
-```
+      ```sh
+      pip install -U nodejs
+      pip install -U jupyterlab ipywidgets
+      pip install -U pandas matplotlib seaborn scipy scikit-learn joblib lxml beautifulsoup4 pillow sqlalchemy openpyxl xlrd statsmodels tabulate pandas-datareader
+      pip install -U plotly cufflinks chart_studio kaleido orjson
+      pip install -U psycopg2-binary
+      pip install -U ipython-sql pgspecial
+      pip install -U graphviz
+      pip install -U xgboost catboost lightgbm shap
+      pip cache purge
+      ```
 #### Clone class materials
 * [ ] [install git](https://www.git-scm.com/)
   * [ ] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
-```bat
-mkdir beagle
-cd beagle
-git clone https://github.com/prasertcbs/ds_class_2022.git
-```
-* [ ] pull latest files from git repo
-```bat
-cd beagle
-git pull
-```
+  * [ ] Windows (cmd)
+    * [ ] clone repository
+      ```bat
+      cd %userprofile%
+      git clone https://github.com/prasertcbs/python_class_2022.git snowball
+      ```
+      * [ ] pull latest files from git repo
+      ```bat
+      cd %userprofile%\snowball
+      git pull
+      ```
+  * [ ] mac/Windows (PowerShell)
+    * [ ] clone repository
+      ```sh
+      cd ~
+      git clone https://github.com/prasertcbs/python_class_2022.git snowball
+      ```
+    * [ ] pull latest files from git repo
+      ```sh
+      cd ~/snowball
+      git pull
+      ```
 ### Basic Command line
 #### [Windows command line](https://www.youtube.com/watch?v=C5fCLAA7Mmc&list=PLoTScYm9O0GGpQRdTu3Y8sGA8MsBuojhV)
 * [ ] `dir`: list files
