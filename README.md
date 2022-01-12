@@ -1,5 +1,6 @@
 - [2602454: Business Intelligence System](#2602454-business-intelligence-system)
   - [Week 1: 12-Jan-2022](#week-1-12-jan-2022)
+    - [how to ask question](#how-to-ask-question)
     - [Intro to data science](#intro-to-data-science)
       - [Clone class materials](#clone-class-materials)
     - [Basic Command line](#basic-command-line)
@@ -13,9 +14,10 @@
 * [cheat sheet](https://github.com/prasertcbs/cheatsheet) 
 ## Week 1: 12-Jan-2022
 * [ ] [week 1 clips](https://github.com/prasertcbs/ds_class_2022/blob/main/week1_clips.md)
+### [how to ask question](https://stackoverflow.com/help/how-to-ask)
 ### Intro to data science
 * [ ] [Job market](https://www.facebook.com/skooldio/photos/a.457984764545584/1643356276008421/)
-* [ ] [Data Science in Busines](./cheatsheet/ds%20for%20business.pdf)
+* [ ] [Data Science in Business](./cheatsheet/ds%20for%20business.pdf)
 * [ ] [CRISP model: CRoss-Industry Standard Process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining#/media/File:CRISP-DM_Process_Diagram.png)
 * [ ] [machine learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html)
 * [ ] TARGET teenage pregnancy case 2012
@@ -51,26 +53,26 @@
 #### Clone class materials
 * [ ] [install git](https://www.git-scm.com/)
   * [ ] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
-  * [ ] Windows (cmd)
+  * [ ] Windows (`cmd`)
     * [ ] clone repository
       ```bat
       cd %userprofile%
-      git clone https://github.com/prasertcbs/python_class_2022.git snowball
+      git clone https://github.com/prasertcbs/ds_class_2022.git beagle
       ```
       * [ ] pull latest files from git repo
       ```bat
-      cd %userprofile%\snowball
+      cd %userprofile%\beagle
       git pull
       ```
-  * [ ] mac/Windows (PowerShell)
+  * [ ] mac/Windows (`PowerShell`)
     * [ ] clone repository
       ```sh
       cd ~
-      git clone https://github.com/prasertcbs/python_class_2022.git snowball
+      git clone https://github.com/prasertcbs/ds_class_2022.git beagle
       ```
     * [ ] pull latest files from git repo
       ```sh
-      cd ~/snowball
+      cd ~/beagle
       git pull
       ```
 ### Basic Command line
